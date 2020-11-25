@@ -1,1 +1,8 @@
 # NFL BigDataBowl2021
+
+
+# Whether the pass plays were successful or not in the National Football League (NFL) is crucial to the whole team, especially in the digital era of football. Every player's every move on the field is captured by the new system of Next Gen Stats technology to help coaches and teams find the best players and the most successful formations and schemes. However, defensive football players’ statistical analysis has lagged behind offensive players, special teams, and coaching decisions. With the introduction of player tracking data from the NFL, data on individual defensive players have historically changed. Since the defensive team’s natural passivity in tactical execution and player movement, event and strategy annotations for the defensive’s tracking data is limited, especially when describing what defensive players do on each play. Moreover, methods for creating these annotations typically require extensive human labeling, which is difficult and expensive. In our research, we try to provide annotations for the pass coverage types of cornerbacks using unsupervised learning techniques; instead of using the training data. We define a set of features from the tracking data that distinguish between “man” and “zone” coverage. We use mixture models to create clusters corresponding to each group, allowing us to provide probabilistic assignments to each coverage type (or cluster). Additionally, we quantify each feature’s influence in distinguishing defensive pass coverage types. Our work makes possible several potential avenues of future NFL research into defensive backs and passes coverage strategies. 	
+
+
+
+# https://www.kaggle.com/c/nfl-big-data-bowl-2021/overview
